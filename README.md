@@ -11,7 +11,7 @@
 | [wheel-of-life](https://github.com/Fortranibal/wheel-of-life) | Wheel of Life visualization tool | `Python` | Visualization |
 | [youtube-viewer](https://github.com/Fortranibal/youtube-viewer) | A view bot for Youtube | `JavaScript` `Dockerfile` | Automation |
 | [smtp_mail_bot_server](https://github.com/Fortranibal/smtp_mail_bot_server) | Automation for incoming mail messages | `Python` | Automation |
-| [MYOA-Course](https://github.com/Fortranibal/MYOA-Course) | Make Your Own Adventure course project | `HTML` `CSS` `JavaScript` | Web Development |
+| [MYOA-Course](https://github.com/Fortranibal/MYOA-Course) | Make Your Own App course project. Chatbot and banking apps development | `HTML` `CSS` `JavaScript` | Web Development |
 
 ## Private Projects
 | Project | Description | Technologies | Category |
