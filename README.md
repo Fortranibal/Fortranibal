@@ -1,42 +1,52 @@
 <h1 align="center">Hi 👋, I'm Fortranibal</h1>
-<h3 align="center">A passionate aerospace engineer from Ibiza</h3>
+<h3 align="center">Aerospace engineer from Ibiza</h3>
 
-- 🔭 I’m currently working on [InterviewStar](https://github.com/Fortranibal/InterviewStar)
+- 🔭 I’m currently working on: [👔 **InterviewStar**](https://github.com/Fortranibal/InterviewStar) and [📝 **ResumeOptimizer**](https://github.com/Fortranibal/ResumeOptimizer)
+- You can visit my portfolio website: [🌐 fortranibal.github.io](https://github.com/Fortranibal/fortranibal.github.io)
 
-- 📫 How to reach me **anibal.guerrero.hernandez@gmail.com**
+ <!--- --> 
 
+# 🚀 Project Portfolio
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fortranibal&label=Viewers&color=000000&style=flat" alt="Fortranibal" /></p> -->
+## 📦 Public Projects
+| Project | Description | Technologies Used | Topic | Category |
+| --- | --- | --- | --- | --- |
+| [📈 Financial Market Simulatr](https://github.com/Fortranibal/Financial-Market-Simulator) | Market Simulator using real S&P500 data | `C++` `GNU` | Market Simulation, Stock Analysis | Finance |
+| [📝 Resume Optimizer](https://github.com/Fortranibal/ResumeOptimizer) | AI-powered resume optimization tool | `Python` `NLP` `Transformers` | Resume Analysis, AI | AI/ML |
+| [🌐 fortranibal.github.io](https://github.com/Fortranibal/fortranibal.github.io) | Personal portfolio website | `TypeScript` `SCSS` | Web Development | Web Dev |
+| [🐦 X Scrape](https://github.com/Fortranibal/xscrape) | X/Twitter scraper with topic classification | `Python` `BeautifulSoup` `ML` | Web Scraping, Classification | Data Analysis |
+| [🚀 Rocket Hopper Demonstrator TD3 Control](https://github.com/Fortranibal/Rocket-Hopper-DDPG) | RL-based rocket attitude control | `Python` `PyTorch` | Reinforcement Learning | Aerospace |
+| [💰 BTC Risk](https://github.com/Fortranibal/btcrisk) | Bitcoin risk analysis tools | `Python` `Jupyter` `Pandas` | Crypto Analysis | Finance |
+| [📊 Arbitrage Lab](https://github.com/Fortranibal/arbitragelab) | Mean-reversion portfolio algorithms | `Python` `NumPy` | Statistical Arbitrage | Finance |
+| [📈 Backtest Tutorial](https://github.com/Fortranibal/backtest_tutorial) | Trading strategy backtesting framework | `Python` `Pandas` | Algorithmic Trading | Finance |
+| [⚡ FL Arbitrage Bot](https://github.com/Fortranibal/flarbitragebot) | FlashLoan Arbitrage Bot | `Python` `Web3` | DeFi, Flash Loans | Finance |
+| [🎯 Wheel of Life](https://github.com/Fortranibal/wheel-of-life) | Life balance visualization tool | `Python` `Matplotlib` | Data Visualization | Tools |
+| [📺 Youtube Bot Viewer](https://github.com/Fortranibal/youtube-viewer) | YouTube automation tool | `JavaScript` `Docker` | Web Automation | Tools |
+| [📧 SMTP Mail Bot Server](https://github.com/Fortranibal/smtp_mail_bot_server) | Email automation system | `Python` `SMTP` | Email Automation | Tools |
+| [📚 SumGPT](https://github.com/Fortranibal/SumGPT) | Document summarization with ChatGPT | `Python` `OpenAI API` | LLM, Text Processing | AI/ML |
+| [🤗 Open Source Models with HF](https://github.com/Fortranibal/Open-Source-Models-with-Hugging-Face) | Hugging Face models exploration | `Python` `Transformers` | LLMs, Model Development | AI/ML |
+| [💻 MYOA-Course](https://github.com/Fortranibal/MYOA-Course) | App development course projects | `HTML` `CSS` `JavaScript` | Web Development | Web Dev |
 
-## Public Projects
-| Project | Description | Technologies | Category |
-| --- | --- | --- | --- |
-| [SumGPT](https://github.com/Fortranibal/SumGPT) | Bulk summarization of documents using ChatGPT API | `Python` `Batchfile` | LLM |
-| [Open-Source-Models-with-Hugging-Face](https://github.com/Fortranibal/Open-Source-Models-with-Hugging-Face) | Learn to use Hugging Face for different projects | `Jupyter Notebook` | LLM |
-| [backtest_tutorial](https://github.com/Fortranibal/backtest_tutorial) | Tutorial for backtesting trading strategies | `Jupyter Notebook` | Quant Trading |
-| [flarbitragebot](https://github.com/Fortranibal/flarbitragebot) | FlashLoan Arbitrage Bot | `Python` | Quant Trading |
-| [arbitrage_research](https://github.com/Fortranibal/arbitrage_research) | Research on arbitrage strategies | `Python` `Jupyter Notebook` | Quant Trading |
-| [wheel-of-life](https://github.com/Fortranibal/wheel-of-life) | Wheel of Life visualization tool | `Python` | Visualization |
-| [youtube-viewer](https://github.com/Fortranibal/youtube-viewer) | A view bot for Youtube | `JavaScript` `Dockerfile` | Automation |
-| [smtp_mail_bot_server](https://github.com/Fortranibal/smtp_mail_bot_server) | Automation for incoming mail messages | `Python` | Automation |
-| [MYOA-Course](https://github.com/Fortranibal/MYOA-Course) | Make Your Own App course project. Chatbot and banking apps development | `HTML` `CSS` `JavaScript` | Web Development |
-
-## Private Projects
-| Project | Description | Technologies | Category |
-| --- | --- | --- | --- |
-| automated_youtube_channel-master | YouTube Automation Tool for seamless video production | `Python` `Dockerfile` | Automation |
-| NextGen-SaaS-Platform-v2 | Advanced SaaS boilerplate with JavaScript (Version 2) | `TypeScript` `CSS` | Web Development |
-| TypeScript-SaaS-Starter | Comprehensive TypeScript-based SaaS starter kit | `TypeScript` `CSS` `JavaScript` | Web Development |
-| next-shadcn-stripe-multitenant-saas-boilerplate | A SaaS starter for building applications | `Next.js` `Supabase` `Tailwind` `CSS` | Web Development |
-| [fortranibal.github.io](https://www.anibalguerrero.com) | Personal GitHub Pages website | `CSS` `JavaScript` `SCSS` `HTML` | Web Development |
-| [TerrainStageSimulator](https://github.com/DLR-RM/oaisys) | Contributions to DLR-RM OAISYS (**O**utdoor **A**rtificial **I**ntelligent **SY**stems **S**imulator), a Blender-based simulator for planetary robotics in unstructured outdoor environments. Generates diverse planetary scenes with rich metadata and annotations. | `Python` `Shell` `Blender` `Slurm Cluster`| Research |
-| mlquantlabs | Machine learning for portfolio managers and traders | `Python` | Quant Trading |
+## 🔒 Private Projects
+| Project | Description | Technologies Used | Topic | Category |
+| --- | --- | --- | --- | --- |
+| [👔 InterviewStar](https://github.com/Fortranibal/InterviewStar) | AI interview coach with audio & eye tracking | `TypeScript` `React` `OpenCV` | Speech Processing, CV | AI/ML |
+| [🎬 ClipMagic](https://github.com/Fortranibal/ClipMagic) | Automated video content generator | `Python` `FFmpeg` | Video Generation | Content Creation |
+| [📊 BTCMetrics](https://github.com/Fortranibal/btc-metrics) | Advanced Bitcoin metrics analysis | `TypeScript` `D3.js` | Crypto Analysis | Finance |
+| [🎥 Fully Automated YouTube Channel](https://github.com/Fortranibal/automated_youtube_channel-master) | Automated content production pipeline for YouTube | `Python` `Docker` `AWS` | Content Automation | Content Creation |
+| [⚡ NextJS Shadcn SaaS Boiler Plate](https://github.com/Fortranibal/next-shadcn-stripe-multitenant-saas-boilerplate) | Multi-tenant SaaS starter kit | `TypeScript` `Next.js` `Supabase` | SaaS Development | Web Dev |
+| [🌍 OAISYS (DLR) ](https://github.com/Fortranibal/TerrainStageSimulator) | Planetary robotics simulator | `Python` `Blender` `Shell` | 3D Simulation | Research |
+| [📈 ML QuantLabs](https://github.com/Fortranibal/mlquantlabs) | ML-powered trading solutions | `Python` `scikit-learn` | ML Trading | Finance |
 
 <img src="https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=true" width="100%">
 
+ <!--- --> 
+
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fortranibal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fortranibal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anibal-guerrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anibal-guerrero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
